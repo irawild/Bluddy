@@ -358,11 +358,6 @@ button{
 }
 .dropdown a .caret{
 	margin:0 0 0 5px}
-/* = Icons
--------------------------------------------------------------- */
-.icon-md{
-	font-size:30px!important;
-}
 
 
 /* = Text & Icon Styles
@@ -457,7 +452,7 @@ iframe{
 	background-image:url("img/show-mercy-worship-background.jpg");
 }
 .bg-show-mercy-worship-background{
-	background-image:url('img/show-mercy-worship-background.jpg');
+	background-image:url("img/show-mercy-worship-background.jpg");
 }
 
 
