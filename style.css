@@ -426,14 +426,6 @@ iframe{
 }
 /* Button colour styles */
 
-.btn-apple-green{
-	background:#A0BF00;
-	color:#FFFFFF!important;
-}
-.btn-apple-green:hover{
-	background:#809900;
-	color:#FFFFFF!important;
-}
 .btn-dark-candy-apple-red{
 	background:#A00000;
 	color:#FFFFFF!important;
